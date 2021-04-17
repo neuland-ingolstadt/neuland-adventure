@@ -918,24 +918,11 @@
                         }]
                 }],
          "tilewidth":32
-        }, 
-        {
-         "columns":12,
-         "firstgid":321,
-         "image":"C:\/Users\/FabianPC\/Downloads\/Herunterladen (2).png",
-         "imageheight":223,
-         "imagewidth":399,
-         "margin":0,
-         "name":"Herunterladen (2)",
-         "spacing":0,
-         "tilecount":72,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
+        },
         {
          "columns":147,
          "firstgid":393,
-         "image":"C:\/Users\/FabianPC\/Downloads\/Mensa.PNG",
+         "image":"Tiles\/OverlaysGebaeude\/Mensa.PNG",
          "imageheight":2904,
          "imagewidth":4722,
          "margin":0,
@@ -948,7 +935,7 @@
         {
          "columns":425,
          "firstgid":13623,
-         "image":"Tiles\/OverlaysGeb\u00e4ude\/Gebaude_d.PNG",
+         "image":"Tiles\/OverlaysGebaeude\/Gebaude_d.PNG",
          "imageheight":8370,
          "imagewidth":13610,
          "margin":0,

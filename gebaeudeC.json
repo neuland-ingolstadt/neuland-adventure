@@ -174,7 +174,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"tilesets_deviant_milkian_1.png",
+         "image":"Tiles\/Standart\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -899,7 +899,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"floortileset.png",
+         "image":"Tiles\/Standart\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -920,22 +920,9 @@
          "tilewidth":32
         }, 
         {
-         "columns":12,
-         "firstgid":321,
-         "image":"C:\/Users\/FabianPC\/Downloads\/Herunterladen (2).png",
-         "imageheight":223,
-         "imagewidth":399,
-         "margin":0,
-         "name":"Herunterladen (2)",
-         "spacing":0,
-         "tilecount":72,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
          "columns":147,
          "firstgid":393,
-         "image":"C:\/Users\/FabianPC\/Downloads\/Mensa.PNG",
+         "image":"Tiles\/OverlaysGebaeude\/Mensa.PNG",
          "imageheight":2904,
          "imagewidth":4722,
          "margin":0,
