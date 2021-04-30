@@ -145,7 +145,7 @@
          "height":50,
          "id":15,
          "name":"overlay_thi",
-         "opacity":0.34,
+         "opacity":0,
          "type":"tilelayer",
          "visible":false,
          "width":145,
