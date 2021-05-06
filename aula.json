@@ -922,7 +922,7 @@
         {
          "columns":147,
          "firstgid":321,
-         "image":"Tiles\/OverlaysGebaeude\/Mensa.PNG",
+         "image":"Tiles\/OverlaysGebaeude\/Mensa.jpg",
          "imageheight":2904,
          "imagewidth":4722,
          "margin":0,
@@ -935,7 +935,7 @@
         {
          "columns":337,
          "firstgid":13551,
-         "image":"Tiles\/OverlaysGebaeude\/Aula.PNG",
+         "image":"Tiles\/OverlaysGebaeude\/Aula.jpg",
          "imageheight":6648,
          "imagewidth":10812,
          "margin":0,
