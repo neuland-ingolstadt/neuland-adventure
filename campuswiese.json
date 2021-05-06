@@ -880,12 +880,30 @@
          "tilewidth":32
         }, 
         {
+         "columns":2,
          "firstgid":72743,
-         "source":"bench-wood.tsx"
+         "image":"Tiles\/OpenGameArt\/bench-wood.png",
+         "imageheight":128,
+         "imagewidth":64,
+         "margin":0,
+         "name":"bench-wood",
+         "spacing":0,
+         "tilecount":8,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":9,
          "firstgid":72751,
-         "source":"Tiles\/OpenGameArt\/trees-and-bushes.tsx"
+         "image":"Tiles\/OpenGameArt\/trees-and-bushes.png",
+         "imageheight":160,
+         "imagewidth":288,
+         "margin":0,
+         "name":"trees-and-bushes",
+         "spacing":0,
+         "tilecount":45,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
